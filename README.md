@@ -24,3 +24,5 @@ Tetris clone made in python using pyglet package. Used for general python practi
 - names in high scores
 
 Code works with no known bugs, however it is not the cleanest implementation. Feel free to play with the code or use in other projects.
+
+The zip file contains an executable of the game. Just unzip the folder and run main.exe
