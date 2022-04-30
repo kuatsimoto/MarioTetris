@@ -7,7 +7,7 @@ Tetris clone made in python using pyglet package. Used for general python practi
 - up and down arrow keys rotate clockwise/anticlockwise
 - spacebar will hard drop your piece
 - D key will soft drop your piece
-- num pad 0 will hold current piece
+- Left shift will hold current piece
 
 ## Implemented stuff:
 
