@@ -235,7 +235,7 @@ def on_key_press(symbol, modifiers):
         CurrentTetramino.keys['down'] = True
     elif symbol == key.SPACE:
         CurrentTetramino.keys['space'] = True
-    elif symbol == key.NUM_0:
+    elif symbol == key.LSHIFT:
         CurrentTetramino.keys['lctrl'] = True
     elif symbol == key.D:
         CurrentTetramino.keys['d'] = True
@@ -258,7 +258,7 @@ def on_key_release(symbol, modifiers):
         CurrentTetramino.keys['down'] = False
     elif symbol == key.SPACE:
         CurrentTetramino.keys['space'] = False
-    elif symbol == key.NUM_0:
+    elif symbol == key.LSHIFT:
         CurrentTetramino.keys['lctrl'] = False
     elif symbol == key.D:
         CurrentTetramino.keys['d'] = False
